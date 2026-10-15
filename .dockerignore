@@ -1,3 +1,9 @@
-.target/
-.git/
-.vscode/
+.git
+.gitignore
+.target
+/target
+.idea
+.vscode
+.env
+*.log
+README.md
